@@ -1,0 +1,9 @@
+*.pyc
+*.log
+venv
+.idea/*
+venv/*
+celeryworks.txt
+static/*
+media/*
+
