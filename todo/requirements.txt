@@ -8,7 +8,9 @@ contextlib2==0.6.0
 distlib==0.3.0
 distro==1.4.0
 Django==3.2.4
+django-cors-headers==3.7.0
 django-filter==2.4.0
+django-rest-auth==0.9.5
 djangorestframework==3.12.4
 html5lib==1.0.1
 idna==2.8
